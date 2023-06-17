@@ -4,6 +4,6 @@
 
 
 <h2>🍀studying </h2>
-<h2>   <img src="https://img.shields.io/badge/C-61DAFB?style=flat&logo=React&logoColor=white"/>    <img src="https://img.shields.io/badge/cplusplus-#00599C?style=flat&logo=cplusplus&logoColor=white"/></h2>
+<h2>   <img src="https://img.shields.io/badge/C-61DAFB?style=flat&logo=C&logoColor=white"/>    <img src="https://img.shields.io/badge/cplusplus-#00599C?style=flat&logo=cplusplus&logoColor=white"/></h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSblow001&layout=compact)](https://github.com/Jsblow001/github-readme-stats)
