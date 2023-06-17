@@ -1,4 +1,4 @@
-  ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Profil&fontSize=70&desc=Hello&descSize=40&fontAlign=80&fontAlignY=2&descAlign=80&escAlignY=60&rotate=19)
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=My Profil&fontSize=70&fontAlign=80&fontAlignY=2&rotate=19)
 
 <h2>세명대학교 스마트IT학부 학생으로써 배우는 단계입니다.</h2>
 
