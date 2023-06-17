@@ -9,11 +9,11 @@
  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/> </h2>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSblow001&layout=compact)](https://github.com/Jsblow001/github-readme-stats)
-
-
 **Other**
 ---
 
 <a href = "https://github.com/mhlee1486"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />
 </a>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSblow001&layout=compact)](https://github.com/Jsblow001/github-readme-stats)
