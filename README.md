@@ -12,7 +12,7 @@
 **Other**
 ---
 
-<a href = "https://github.com/mhlee1486"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />
+<a href = "https://github.com/Jsblow001"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />
 </a>
 
 
