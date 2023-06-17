@@ -1,6 +1,7 @@
   ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=My%20Profile&fontSize=48&fontAlign=77&fontAlignY=2&rotate=19)
 
 <h2>세명대학교 스마트IT학부 학생으로써 
+  
   천천히 배우는 단계입니다.</h2>
 
 
