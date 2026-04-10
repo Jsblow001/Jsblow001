@@ -46,9 +46,12 @@
 
 ## 📊 GitHub 통계
 
+## 📊 GitHub 통계
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jsblow001&show_icons=true&theme=dark&hide_border=true" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jsblow001&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jsblow001&show_icons=true&theme=dark" alt="Github Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jsblow001&layout=compact&theme=dark" alt="Top Langs" />
 </div>
 
 <br>
