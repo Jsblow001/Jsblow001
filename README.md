@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007396&height=220&section=header&text=Kim&nbsp;Jiseop&fontSize=50&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=007396&height=220&section=header&text=Kim%20Jiseop&fontSize=50&fontAlign=70&fontAlignY=35&rotate=13&animation=fadeIn" />
   <h3>탄탄한 기본기와 집요함으로 성장하는 백엔드 개발자</h3>
 </div>
 
