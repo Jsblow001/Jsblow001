@@ -47,8 +47,7 @@
 ## 📊 GitHub 통계
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jsblow001&show_icons=true&theme=dark&hide_border=true" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jsblow001&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <img src="https://metrics.lecoq.io/Jsblow001?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=1&base.metadata=0" alt="Metrics" />
 </div>
 
 <br>
