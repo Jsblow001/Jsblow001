@@ -47,9 +47,12 @@
 ## 📊 GitHub 통계
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Jsblow001&show_icons=true&theme=dark&hide_border=true" alt="Github Stats" />
-  <br>
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Jsblow001&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jsblow001&theme=react-dark&hide_border=true" alt="Activity Graph" />
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Main%20Language-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Total%20Commits-Calculating-6DB33F?style=for-the-badge&logo=github"/>
 </div>
 
 <br>
