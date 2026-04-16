@@ -34,7 +34,7 @@
 - **설명:** 안경/선글라스 브랜드 CARIN 기반의 웹 쇼핑몰
 - **사용 기술:** Spring Boot, Mybatis, Oracle DB
 - **핵심 성과:** 관리자 대시보드 및 판매 통계 시각화 구현, Mybatis를 활용한 효율적인 데이터 매핑 처리
-- **Repository:** [View Project](https://github.com/Jsblow001)
+- **Repository:** [View Project](https://github.com/Jsblow001/SemiProject)
 
 ### 🏨 호텔 예약 관리 시스템
 - **설명:** 지점별 관리 및 실시간 매출 분석 기능을 포함한 통합 예약 서비스
