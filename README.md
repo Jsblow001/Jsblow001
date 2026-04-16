@@ -40,7 +40,7 @@
 - **설명:** 지점별 관리 및 실시간 매출 분석 기능을 포함한 통합 예약 서비스
 - **사용 기술:** Java, Spring Boot, Oracle DB, JSP
 - **핵심 성과:** 복잡한 DB 스키마 설계를 통한 중복 예약 방지 로직 구현 및 실시간 매출 대시보드 구축
-- **Repository:** [View Project](https://github.com/Jsblow001)
+- **Repository:** [View Project](https://github.com/Jsblow001/Final_hotel)
 
 <br>
 
